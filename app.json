@@ -1,0 +1,35 @@
+{
+  "id": "bec2a381-a872-4e0a-9f1e-bb1fafd2fb30",
+  "name": "Loading",
+  "publisher": "Gutridge Business Solutions",
+  "version": "1.0.0.0",
+  "runtime": "8.0",
+  "target": "OnPrem",
+  "platform": "19.0.29884.30666",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "dependencies": [
+    {
+      "id": "c1335042-3002-4257-bf8a-75c898ccb1b8",
+      "name": "Application",
+      "version": "19.0.0.0",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "044ac4be-1878-4c71-ba7c-27d4c18aa251",
+      "name": "NOIC Purchasing Customisations",
+      "publisher": "Gutridge Business Solutions Pvt Ltd.",
+      "version": "1.0.0.0"
+    }
+
+  ],
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50549
+    }
+  ]
+}
